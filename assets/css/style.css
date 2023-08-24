@@ -1,3 +1,5 @@
+/*Refractoring code within the whole CSS file to be more organized and consolidated */
+
 * {
     box-sizing: border-box;
     padding: 0;
