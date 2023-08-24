@@ -6,5 +6,5 @@ I wanted to create a codebase that follows accessibility standards in order for 
 ![Horiseon Services screenshot](/assets/images/image.png)
 
 Link to Horiseon Services website https://nathanphan21.github.io/Module-1-Challenge/
+<br>
 Link to Github Repository https://github.com/nathanphan21/Module-1-Challenge
-## Credits
